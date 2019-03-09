@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import org.testng.annotations.BeforeClass;
 
 public class NewTest {
-	//comment
+	//comment---
   @Test
   public void f() {
 	  System.out.println("hello");
